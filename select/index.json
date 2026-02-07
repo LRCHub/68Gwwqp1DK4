@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "PASSIONATE ANTHEM",
+  "base_artist": "Roselia",
+  "createdAt": "2026-02-07T11:28:39.691167Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PASSIONATE ANTHEM",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/01_PASSIONATE_ANTHEM_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PASSIONATE ANTHEM",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/02_PASSIONATE_ANTHEM_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PASSIONATE ANTHEM",
+      "artist": "Roselia (相羽あいな, 工藤晴香, 中島由貴, 櫻川めぐ, 明坂聡美)",
+      "has_synced": true,
+      "path": "select/03_PASSIONATE_ANTHEM_Roselia_(相羽あいな,_工藤晴香,_中島由貴,_櫻川めぐ,_明坂聡美).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PASSIONATE ANTHEM",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_PASSIONATE_ANTHEM_Roselia.txt"
+    }
+  ]
+}
